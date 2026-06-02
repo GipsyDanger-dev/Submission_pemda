@@ -1,0 +1,14 @@
+# Informasi Submission
+Nama: Adam Fairuz Akmal Aryaguna
+Platform: Dicoding
+Proyek: ETL Pipeline Sederhana
+
+# Cara menjalankan skrip ETL
+python main.py
+
+# Cara menjalankan unit test
+python -m pytest tests/
+
+# Cara menjalankan test coverage
+python -m pytest --cov=utils tests/
+
